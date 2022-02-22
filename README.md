@@ -1,2 +1,3 @@
 # Network_CNN
-compare MLP and CNN
+The code compares the structure and perfromance between MLP and CNN.
+The repository will keep updated in this semester!
